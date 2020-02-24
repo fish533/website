@@ -17,3 +17,4 @@ dev_dependencies:
   sqflite: ^1.1.0
   camera: ^0.4.0+3
   video_player: ^0.10.0+2
+css_colors：依賴項
